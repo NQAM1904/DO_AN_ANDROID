@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145668449189",
+    "firebase_url": "https://doanandroid-802b2.firebaseio.com",
+    "project_id": "doanandroid-802b2",
+    "storage_bucket": "doanandroid-802b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145668449189:android:c60c784572a435109fbe4c",
+        "android_client_info": {
+          "package_name": "vn.example.do_an"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145668449189-huauathbts9u8omo9q2b7o0d8feuksrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.example.do_an",
+            "certificate_hash": "4207c732daea1c9ded381f45a529d25dd56856ae"
+          }
+        },
+        {
+          "client_id": "145668449189-76d9j8mccp24tfkndamosc9ba6j852qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfp8WHzi85QTvdvPcQZXG7r3jFYdUijWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145668449189-76d9j8mccp24tfkndamosc9ba6j852qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

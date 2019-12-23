@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="bottom"
+    tools:context=".SettingFragment">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:orientation="horizontal">
+
+</LinearLayout>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+       <TextView
+           android:id="@+id/edtMail"
+           android:layout_width="match_parent"
+           android:gravity="center"
+           android:layout_height="wrap_content"
+           android:layout_marginBottom="10dp"/>
+       <Button
+           android:id="@+id/btn_logout"
+           android:layout_width="match_parent"
+           android:layout_height="40dp"
+           android:layout_marginStart="8dp"
+           android:layout_marginLeft="8dp"
+           android:layout_marginEnd="8dp"
+           android:layout_marginRight="8dp"
+           android:layout_marginBottom="65dp"
+           android:background="@drawable/custom_button"
+           android:onClick="DangXuat"
+           android:text="Đăng xuất"
+           android:textAllCaps="false"
+           android:textColor="#FAF7F7"
+           android:textSize="20sp"
+           tools:ignore="OnClick" />
+   </LinearLayout>
+
+
+</LinearLayout>
